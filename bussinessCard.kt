@@ -42,7 +42,7 @@ fun businessCard() {
         Spacer(modifier = Modifier.height(16.dp))
 
         Text(
-            text = "MUNIRA OMAR JUMA",
+            text = "ASMA ALI ABDULLAH",
             fontSize = 22.sp,
             fontWeight = FontWeight.Bold
         )
